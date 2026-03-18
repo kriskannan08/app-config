@@ -2,5 +2,5 @@
     "minimumVersion": "1.0",
     "latestVersion": "1.2",
     "forceUpdate": false,
-    "message": "New: View Subject Alternative Names (SAN) for certificates. Improved UI and smoother interactions."
+    "message": "Inspect Subject Alternative Names (SAN) for leaf certificates. Includes UI improvements and smoother animations."
 }
