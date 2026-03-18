@@ -1,6 +1,6 @@
 {
     "minimumVersion": "1.0",
-    "latestVersion": "1.1",
+    "latestVersion": "1.2",
     "forceUpdate": false,
-    "message": "Drag & Drop certificates and improved UI now available."
+    "message": "New: View Subject Alternative Names (SAN) for certificates. Improved UI and smoother interactions."
 }
