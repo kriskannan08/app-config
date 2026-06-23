@@ -1,6 +1,6 @@
 {
-    "minimumVersion": "1.0",
-    "latestVersion": "1.3",
+    "minimumVersion": "1.4",
+    "latestVersion": "1.4",
     "forceUpdate": false,
-    "message": "SSL Pinning Code Generator is now available with Swift, Alamofire, Kotlin, and Flutter code templates."
+    "message": "New in SSL Inspector 1.4: Generate SSL pinning code for Swift (URLSession), Alamofire, Kotlin (OkHttp), and Flutter with a single click."
 }
