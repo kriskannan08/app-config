@@ -1,6 +1,6 @@
 {
     "minimumVersion": "1.4",
-    "latestVersion": "1.5",
+    "latestVersion": "1.6",
     "forceUpdate": false,
     "message": "New in SSL Inspector 1.5: Compare SSL certificates from domains or local certificate files."
 }
