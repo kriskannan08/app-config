@@ -1,6 +1,6 @@
 {
     "minimumVersion": "1.4",
-    "latestVersion": "1.4",
+    "latestVersion": "1.5",
     "forceUpdate": false,
-    "message": "New in SSL Inspector 1.4: Generate SSL pinning code for Swift (URLSession), Alamofire, Kotlin (OkHttp), and Flutter with a single click."
+    "message": "New in SSL Inspector 1.5: Compare SSL certificates from domains or local certificate files."
 }
