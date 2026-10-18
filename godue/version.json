@@ -1,6 +1,6 @@
 {
     "minimumVersion": "1.0",
-    "latestVersion": "99.0",
-    "forceUpdate": true,
+    "latestVersion": "1.0",
+    "forceUpdate": false,
     "message": "A new version of GoDue is available. Update now to enjoy the latest features."
 }
