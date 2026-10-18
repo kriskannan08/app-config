@@ -1,6 +1,6 @@
 {
-    "minimumVersion": "1.4",
-    "latestVersion": "1.5",
+    "minimumVersion": "1.0",
+    "latestVersion": "1.0",
     "forceUpdate": false,
-    "message": "New in SSL Inspector 1.5: Compare SSL certificates from domains or local certificate files."
+    "message": "A new version of GoDue is available. Update now to enjoy the latest features."
 }
